@@ -50,9 +50,9 @@ const Documentation = () => {
                 </p>
                 <ol className="list-decimal list-inside text-lg text-gray-700 mb-6 space-y-2">
                     <li>Clone the repository from GitHub:</li>
-                    <pre className="bg-gray-100 p-4 rounded-md text-gray-800"><code>git clone https://github.com/yourusername/your-repo-name.git</code></pre>
+                    <pre className="bg-gray-100 p-4 rounded-md text-gray-800"><code>git clone <a href="https://github.com/rKhanna15/travelBuddy.git">https://github.com/rKhanna15/travelBuddy.git</a></code></pre>
                     <li>Navigate to the project directory:</li>
-                    <pre className="bg-gray-100 p-4 rounded-md text-gray-800"><code>cd your-repo-name</code></pre>
+                    <pre className="bg-gray-100 p-4 rounded-md text-gray-800"><code>cd travelBuddy</code></pre>
                     <li>Install the dependencies:</li>
                     <pre className="bg-gray-100 p-4 rounded-md text-gray-800"><code>npm install</code></pre>
                     <li>Start the development server:</li>
